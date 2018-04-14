@@ -1,0 +1,10 @@
+1
+A
+7
+a b c d e f g
+5
+A abf
+A abg
+A ac
+A ad
+A e

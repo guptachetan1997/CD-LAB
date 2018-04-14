@@ -1,0 +1,8 @@
+1
+A
+3
+c d e
+3
+A Ac
+A d
+A e
