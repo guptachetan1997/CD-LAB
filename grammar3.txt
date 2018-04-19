@@ -1,0 +1,11 @@
+5
+E G T H F
+E
+6
+i + * ( ) #
+5
+E TG
+G +TG|#
+T FH
+H *FH|#
+F i|(E)
